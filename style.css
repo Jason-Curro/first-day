@@ -1,0 +1,54 @@
+header{
+    text-align: center;
+}
+
+header img {
+    width: 200px;
+    padding: 10px;
+}
+
+nav {
+    background-color: #f5f0de;
+    border-top: 1px solid #f2cd6e;
+    padding: 2px;
+}
+
+nav span span {
+    font-weight: bold;
+}
+
+main{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+section{
+    text-align: center;
+}
+
+main img{
+    width: 400px;
+    border-radius: 8px;
+}
+
+h5 {
+    color: rgba(33, 33, 33, 0.4);
+    text-align: center;
+}
+
+section div span {
+    color: #a03d0c;
+}
+
+a{
+    color:rgb(21, 145, 145);
+}
+
+footer{
+    text-align: center;
+}
+
+footer p a{
+    color: rgb(21, 149, 149);
+}
